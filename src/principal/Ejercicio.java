@@ -218,13 +218,13 @@ public class Ejercicio {
 	//Case 2 del submenú.
 	private static void ordenarNombre(File fichPersona, ArrayList<Entrenador> mapaEntrenador, 
 			ArrayList<LiderGimnasio> mapaLiderGimnasio) {
-		
+		//Intentar hacerlo con HashMap/TreeMap.
 	}
 	
 	//Case 3 del submenú.
 	private static void ordenarCodEntr(File fichPersona, ArrayList<Entrenador> mapaEntrenador, 
 			ArrayList<LiderGimnasio> mapaLiderGimnasio) {
-		
+		//Intentar hacerlo con HashMap/TreeMap.
 	}
 	
 	// ------------------- O -------------------
